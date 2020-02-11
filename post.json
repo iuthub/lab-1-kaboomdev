@@ -1,0 +1,20 @@
+{
+  "args": {}, 
+  "data": "", 
+  "files": {}, 
+  "form": {
+    "firstname": "boolean", 
+    "lastname": "world"
+  }, 
+  "headers": {
+    "Accept": "*/*", 
+    "Content-Length": "32", 
+    "Content-Type": "application/x-www-form-urlencoded", 
+    "Host": "httpbin.org", 
+    "User-Agent": "curl/7.54.0", 
+    "X-Amzn-Trace-Id": "Root=1-5e422fa9-5878ba789494fad840d5ef84"
+  }, 
+  "json": null, 
+  "origin": "87.237.236.162", 
+  "url": "https://httpbin.org/post"
+}

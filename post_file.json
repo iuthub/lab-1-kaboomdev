@@ -1,0 +1,19 @@
+{
+  "args": {}, 
+  "data": "", 
+  "files": {
+    "file": "email=hello@world.com&password=heywazup123"
+  }, 
+  "form": {}, 
+  "headers": {
+    "Accept": "*/*", 
+    "Content-Length": "230", 
+    "Content-Type": "multipart/form-data; boundary=------------------------3b7936832aaa54ce", 
+    "Host": "httpbin.org", 
+    "User-Agent": "curl/7.54.0", 
+    "X-Amzn-Trace-Id": "Root=1-5e42312e-2d61034f6961b16fad45da7f"
+  }, 
+  "json": null, 
+  "origin": "87.237.236.162", 
+  "url": "https://httpbin.org/post"
+}
